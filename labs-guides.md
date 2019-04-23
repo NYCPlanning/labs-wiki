@@ -3,3 +3,5 @@
 
 # NYC Planning Labs Guides
 We will use these guides to guide us
+
+* [Getting Started](https://wiki.planninglabs.nyc/labs-guides/getting-started)
