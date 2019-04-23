@@ -15,9 +15,6 @@ This is test content
 
 ### Header 3
 
-# Matt
-# Matt
-# Matt
-# Matt
-# Matt
-# Matt
+### Matt
+
+Matt should only have one h3
