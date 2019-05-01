@@ -17,4 +17,6 @@ This is test content
 
 ### Matt
 
-Matt should only have one h3
+Matt should only have one h3.
+
+**Matt is the best**
